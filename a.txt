@@ -4,7 +4,7 @@ a line 3 changed on test-s3
 a line 4 changed on test-s4
 a line 5
 a line 6
-a line 7
+a line 7 changed on test-s6
 a line 8
 a line 9
 a line 10
