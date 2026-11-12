@@ -2,7 +2,7 @@ a line 1 changed on test-s1
 a line 2 changed on test-s2
 a line 3 changed on test-s3
 a line 4 changed on test-s4
-a line 5
+a line 5 changed on test-s4b
 a line 6
 a line 7
 a line 8
