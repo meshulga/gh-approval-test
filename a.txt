@@ -1,6 +1,6 @@
 a line 1 changed on test-s1
 a line 2 changed on test-s2
-a line 3
+a line 3 changed on test-s3
 a line 4
 a line 5
 a line 6
